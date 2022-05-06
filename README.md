@@ -1,3 +1,5 @@
 # My personal site
 
-Trial site. Want to host it in github pages.
+Demo site
+
+Have hosted it at [bharathts07.com](https://bharathts07.com)
